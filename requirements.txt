@@ -1,1 +1,6 @@
-streamlitpandasmatplotlibopenpyxl
+streamlit
+pandas
+matplotlib
+scikit-learn
+plotly
+openpyxl
